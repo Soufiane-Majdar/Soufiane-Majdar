@@ -2,7 +2,8 @@
 - 👀 I’m a full stack developer
 - 📙 I’m currently learning python automation
 <br>
-- 📫you can reach me on  :
+📫 you can reach me on  :
+
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MajdarSoufiane)
