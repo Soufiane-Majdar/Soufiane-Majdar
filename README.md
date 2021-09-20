@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://github.com/Soufiane-Majdar">@Soufiane-Majdar</a>
 - 👀 I’m a full stack developer
-- 🌱 I’m currently learning python automations
+- 🌱 I’m currently learning python automation
 <br>
 - 📫you can reach me on  :
 
