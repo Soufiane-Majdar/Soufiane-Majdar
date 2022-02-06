@@ -34,9 +34,10 @@ You can click the Preview link to take a look at your changes.
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
  <br>
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 </details>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soufiane-Majdar&hide=TeX&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Soufiane-Majdar&theme=blue-green)
