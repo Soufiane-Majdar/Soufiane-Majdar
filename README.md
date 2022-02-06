@@ -38,3 +38,5 @@ You can click the Preview link to take a look at your changes.
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 </details>
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soufiane-Majdar&hide=TeX&layout=compact)
