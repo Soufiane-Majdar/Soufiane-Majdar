@@ -41,3 +41,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Soufiane-Majdar&theme=blue-green)
+<br>
+<img src="https://komarev.com/ghpvc/?username=Soufiane-Majdar"/>
