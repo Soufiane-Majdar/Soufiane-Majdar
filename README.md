@@ -6,14 +6,13 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/soufiane-majdar-47613719a/)
+
+<!--
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/soufiane.dmj/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dev_hacks/)
 
 <br>
-<!---
-Soufiane-Majdar/Soufiane-Majdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 
 
@@ -43,3 +42,4 @@ You can click the Preview link to take a look at your changes.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Soufiane-Majdar&theme=blue-green)
 <br>
 <img src="https://komarev.com/ghpvc/?username=Soufiane-Majdar"/>
+-->
