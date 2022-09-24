@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://github.com/Soufiane-Majdar">Soufiane</a>
 - 👀 I’m a full stack developer
-- 📙 I'm currently studying engineering at EMSI
+
 <br>
 📫 you can reach me on  :
 
