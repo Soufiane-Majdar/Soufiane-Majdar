@@ -1,7 +1,4 @@
 - 👋 Hi, I’m <a href="https://github.com/Soufiane-Majdar">Soufiane</a>
-- 👀 I’m a full stack developer
-
-[![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/country.svg)](https://stardev.io/developers/Soufiane-Majdar)
 
 <br>
 📫 you can reach me on  :
