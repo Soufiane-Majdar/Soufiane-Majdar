@@ -1,4 +1,4 @@
-[![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/country.svg)](https://stardev.io/developers/Soufiane-Majdar)
+[![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/locality.svg)](https://stardev.io/developers/Soufiane-Majdar)
 
 <br>
 📫 you can reach me on  :
