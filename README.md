@@ -6,6 +6,17 @@
 
 <p>I am passionate about using technology to solve problems and make a positive impact in the world. In my free time, I enjoy exploring new programming languages and frameworks, and building projects that push the boundaries of what is possible.</p>
 
+
+<details>
+<summary>Show  GitHub stats</summary>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soufiane-Majdar)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+
+
 <h2>Links</h2>
 
 <ul>
@@ -21,7 +32,12 @@
 <p>I am currently seeking internship opportunities in order to gain practical experience and build my skills. In the long term, I am interested in pursuing a career in web development, with a focus on creating intuitive and user-friendly websites and applications.</p>
 
 
-[![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/locality.svg)](https://stardev.io/developers/Soufiane-Majdar)
 
 <br>
 
+<details>
+<summary>Country ranking on stardev.io</summary>
+
+  [![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/country.svg)](https://stardev.io/developers/Soufiane-Majdar)
+
+</details>
