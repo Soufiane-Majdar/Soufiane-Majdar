@@ -13,12 +13,6 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/soufiane-majdar-47613719a/" target="_new">linkedin.com/in/soufiane-majdar</a></li>
 </ul>
 
-<h2>Projects</h2>
-<p>Here are some of the projects that I have worked on:</p>
-
-<ul>
-  <li><strong>Project name</strong>: A brief description of the project, including the technologies and frameworks used</li>
-</ul>
 
 <h2>Contact</h2>
 <p>Feel free to contact me at <a href="mailto:soufianemajdar@gmail.com" target="_new">soufianemajdar@gmail.com</a> or connect with me on LinkedIn.</p>
