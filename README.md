@@ -1,5 +1,7 @@
 <h1>Soufiane Majdar</h1>
 
+<p><img src="https://img.shields.io/github/stars/Soufiane-Majdar?style=social" alt="GitHub stars"></p>
+
 <p>Hello! My name is Soufiane Majdar and I am a computer science student at EMSI.</p>
 
 <p>I am passionate about using technology to solve problems and make a positive impact in the world. In my free time, I enjoy exploring new programming languages and frameworks, and building projects that push the boundaries of what is possible.</p>
@@ -22,7 +24,7 @@
 <p>Feel free to contact me at <a href="mailto:soufianemajdar@gmail.com" target="_new">soufianemajdar@gmail.com</a> or connect with me on LinkedIn.</p>
 
 <h2>Future plans</h2>
-<p>I am currently seeking internship opportunities in order to gain practical experience and build my skills. In the long term, I am interested in pursuing a career in software development, with a focus on machine learning and artificial intelligence.</p>
+<p>I am currently seeking internship opportunities in order to gain practical experience and build my skills. In the long term, I am interested in pursuing a career in web development, with a focus on creating intuitive and user-friendly websites and applications.</p>
 
 
 [![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/locality.svg)](https://stardev.io/developers/Soufiane-Majdar)
