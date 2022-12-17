@@ -24,7 +24,7 @@
 <h2>Future plans</h2>
 <p>I am currently seeking internship opportunities in order to gain practical experience and build my skills. In the long term, I am interested in pursuing a career in software development, with a focus on machine learning and artificial intelligence.</p>
 
-<h2>Future plans</h2>
+
 [![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/locality.svg)](https://stardev.io/developers/Soufiane-Majdar)
 
 <br>
