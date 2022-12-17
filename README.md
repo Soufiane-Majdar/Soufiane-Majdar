@@ -20,7 +20,7 @@
 <h2>Links</h2>
 
 <ul>
-  <li>Personal website: <a href="https://devmedia.up.railway.ap" target="_new">DevMedia</a></li>
+  <li>Personal website: <a href="https://devmedia.up.railway.app" target="_new">DevMedia</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/soufiane-majdar-47613719a/" target="_new">linkedin.com/in/soufiane-majdar</a></li>
 </ul>
 
