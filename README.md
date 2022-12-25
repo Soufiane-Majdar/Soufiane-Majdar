@@ -17,7 +17,7 @@
 
 
 
-<h2>Links</h2>
+<h2>🔗 Links</h2>
 
 <ul>
   <li>Personal website: <a href="https://devmedia.up.railway.app" target="_new">DevMedia</a></li>
@@ -25,10 +25,10 @@
 </ul>
 
 
-<h2>Contact</h2>
+<h2>✉️ Contact</h2>
 <p>Feel free to contact me at <a href="mailto:soufiane.majdar@gmail.com" target="_new">soufiane.majdar@gmail.com</a> or connect with me on LinkedIn.</p>
 
-<h2>Future plans</h2>
+<h2>📅 Future plans</h2>
 <p>I am currently seeking internship opportunities in order to gain practical experience and build my skills. In the long term, I am interested in pursuing a career in web development, with a focus on creating intuitive and user-friendly websites and applications.</p>
 
 
