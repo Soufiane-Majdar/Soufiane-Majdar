@@ -1,4 +1,4 @@
-<h1>Soufiane Majdar</h1>
+<h1>Soufiane Majdar <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/null/external-github-a-web-based-hosting-service-for-version-control-logo-filled-tal-revivo.png"/></h1>
 
 <p><img src="https://img.shields.io/github/stars/Soufiane-Majdar?style=social" alt="GitHub stars"></p>
 
