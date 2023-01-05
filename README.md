@@ -1,6 +1,8 @@
 <h1>Soufiane Majdar <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/null/external-github-a-web-based-hosting-service-for-version-control-logo-filled-tal-revivo.png"/></h1>
 
-<p><img src="https://img.shields.io/github/stars/Soufiane-Majdar?style=social" alt="GitHub stars"></p>
+<a href="https://tryhackme.com/p/SoufianeMj"><img src="https://tryhackme-badges.s3.amazonaws.com/SoufianeMj.png" alt="TryHackMe"></a>
+
+
 
 <p>Hello! My name is Soufiane Majdar and I am a computer science student at EMSI.</p>
 
@@ -9,7 +11,6 @@
 
 <details>
 <summary>Show  GitHub stats</summary>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soufiane-Majdar)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
@@ -41,3 +42,8 @@
   [![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/country.svg)](https://stardev.io/developers/Soufiane-Majdar)
 
 </details>
+
+
+<br />
+<br />
+<p><img src="https://img.shields.io/github/stars/Soufiane-Majdar?style=social" alt="GitHub stars"></p>
