@@ -9,13 +9,6 @@
 <p>I am passionate about using technology to solve problems and make a positive impact in the world. In my free time, I enjoy exploring new programming languages and frameworks, and building projects that push the boundaries of what is possible.</p>
 
 
-<details>
-<summary>Show  GitHub stats</summary>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soufiane-Majdar)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-
 
 
 <h2>🔗 Links</h2>
