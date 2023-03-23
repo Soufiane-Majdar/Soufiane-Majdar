@@ -31,8 +31,7 @@
 
 <details>
 <summary>Country ranking on stardev.io</summary>
-
-  [![Check out Soufiane-Majdar's profile on stardev.io](https://stardev.io/developers/Soufiane-Majdar/badge/languages/country.svg)](https://stardev.io/developers/Soufiane-Majdar)
+<a href="https://stardev.io/developers/Soufiane-Majdar"><img alt="Check out Soufiane-Majdar&apos;s profile on stardev.io" src="https://stardev.io/developers/Soufiane-Majdar/badge/languages/country.svg" /></a>
 
 </details>
 
