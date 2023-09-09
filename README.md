@@ -9,8 +9,7 @@
 <h2>✉️ Contact</h2>
 <p>Feel free to contact me at <a href="mailto:soufiane.majdar@gmail.com" target="_new">soufiane.majdar@gmail.com</a></p>
 
-# 📅 Future plans
-<p>I am currently seeking internship opportunities in order to gain practical experience and build my skills. In the long term, I am interested in pursuing a career in web development, with a focus on creating intuitive and user-friendly websites and applications.</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soufiane-majdar-47613719a) 
