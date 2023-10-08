@@ -4,12 +4,12 @@
 <p>Hello! My name is Soufiane Majdar and I am a computer science student at EMSI.</p>
 
 ## website:
-<a href="https://atlasdev.onrender.com/" target="_new">AtlasDev</a>
+<a href="https://atlasdev.onrender.com/" target="_blank">AtlasDev</a>
 
 
 
 <h2>✉️ Contact</h2>
-<p>Feel free to contact me at <a href="mailto:soufiane.majdar@gmail.com" target="_new">soufiane.majdar@gmail.com</a></p>
+<p>Feel free to contact me at <a href="mailto:soufiane.majdar@gmail.com" target="_blank">soufiane.majdar@gmail.com</a></p>
 
 
 
