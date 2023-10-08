@@ -3,7 +3,9 @@
 # 💫 About Me:
 <p>Hello! My name is Soufiane Majdar and I am a computer science student at EMSI.</p>
 
-<p>I am passionate about using technology to solve problems and make a positive impact in the world. In my free time, I enjoy exploring new programming languages and frameworks, and building projects that push the boundaries of what is possible.</p>
+## website:
+<a href="https://atlasdev.onrender.com/" target="_new">AtlasDev</a>
+
 
 
 <h2>✉️ Contact</h2>
