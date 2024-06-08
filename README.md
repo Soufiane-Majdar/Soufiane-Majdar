@@ -5,7 +5,7 @@
 
 ## website:
 <a href="https://atlasdev.onrender.com/" target="_blank">AtlasDev</a>
-<a href="[https://atlasdev.onrender.com/](https://soufiane-majdar.github.io/)" target="_blank">Portfolio</a>
+<a href="https://soufiane-majdar.github.io/" target="_blank">Portfolio</a>
 
 
 
