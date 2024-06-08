@@ -4,9 +4,10 @@
 <p>Hello! My name is Soufiane Majdar and I am a computer science student at EMSI.</p>
 
 ## website:
-<a href="https://atlasdev.onrender.com/" target="_blank">AtlasDev</a>
-<br />
 <a href="https://soufiane-majdar.github.io/" target="_blank">Portfolio</a>
+<br />
+<br />
+<a href="https://atlasdev.onrender.com/" target="_blank">AtlasDev</a>
 
 
 
