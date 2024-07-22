@@ -7,7 +7,8 @@
 <a href="https://soufiane-majdar.github.io/" target="_blank">Portfolio</a>
 <br />
 <br />
-<a href="https://atlasdev.onrender.com/" target="_blank">AtlasDev</a>
+<a href="https://devmaghreb.vercel.app/" target="_blank">𝐃𝐞𝐯𝐌𝐚𝐠𝐡𝐫𝐞𝐛
+</a>
 
 
 
