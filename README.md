@@ -4,10 +4,10 @@
 <p>Hello! My name is Soufiane Majdar and I am a computer science student at EMSI.</p>
 
 ## website:
-<a href="https://soufiane-majdar.github.io/" target="_blank">Portfolio</a>
+<a href="https://soufiane-majdar.github.io/" target="_blank|_self|_parent|_top|framename">Portfolio</a>
 <br />
 <br />
-<a href="https://devmaghreb.vercel.app/" target="_blank">𝐃𝐞𝐯𝐌𝐚𝐠𝐡𝐫𝐞𝐛
+<a href="https://devmaghreb.vercel.app/" target="_blank|_self|_parent|_top|framename">𝐃𝐞𝐯𝐌𝐚𝐠𝐡𝐫𝐞𝐛
 </a>
 
 
