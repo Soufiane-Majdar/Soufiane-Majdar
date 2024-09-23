@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-<p>Hello! My name is Soufiane Majdar and I am a computer science student at EMSI.</p>
+<p>Hello! My name is Soufiane Majdar.</p>
 
 ## website:
 <a href="https://soufiane-majdar.github.io/" target="_blank|_self|_parent|_top|framename">Portfolio</a>
