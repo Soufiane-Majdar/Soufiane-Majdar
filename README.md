@@ -65,7 +65,13 @@ Feel free to explore my projects and reach out if you'd like to collaborate!
   A React.js web app for browsing movies, built as part of a React JS course.  
   ![Demo](https://img.shields.io/badge/Demo-Link-green)
   ![GitHub](https://img.shields.io/badge/Repository-Link-blue)
+---
 
+- ### 📚 [ecole-formation](https://ecole-formation.vercel.app/)
+  Training Center Website is a fully-functional, modern platform built with Django and styled using Bootstrap. This platform allows students to browse and enroll in courses, view assignments, and track their grades. Meanwhile, teachers can manage courses, assignments, and grades. 
+  ![Demo](https://img.shields.io/badge/Demo-Link-green)
+
+  
 ---
 
 - ### 🏦 [Bank GUI](https://github.com/Soufiane-Majdar/Bank_GUI)
