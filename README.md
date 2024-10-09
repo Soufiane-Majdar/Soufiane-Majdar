@@ -28,8 +28,9 @@ Feel free to explore my projects and reach out if you'd like to collaborate!
 
 ---
 
-- ### 🍅 [Pomodoro Timer](https://github.com/Soufiane-Majdar/Pomodoro)
-  A productivity app based on the Pomodoro technique to help manage work and breaks effectively.  
+- ### 🍅 [Pomodoro Timer](https://soufiane-majdar.github.io/Pomodoro/)
+  A productivity app based on the Pomodoro technique to help manage work and breaks effectively.
+  ![Demo](https://img.shields.io/badge/Demo-Link-green)
   ![GitHub](https://img.shields.io/badge/Repository-Link-blue)
 
 ---
