@@ -8,7 +8,7 @@ Feel free to explore my projects and reach out if you'd like to collaborate!
 
 ## 🌍 Website:
 <a href="https://soufiane-majdar.github.io/" target="_blank">🔗 Portfolio</a>  
-<a href="https://devmaghreb.vercel.app/" target="_blank">🔗 DevMaghreb</a>
+<a href="https://cliqatlas.dev" target="_blank">🔗 CliqAtlas.dev</a>
 
 ## ✉️ Contact Me:
 📧 Email: [soufiane.majdar@gmail.com](mailto:soufiane.majdar@gmail.com)
